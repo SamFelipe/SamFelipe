@@ -5,7 +5,7 @@ Além da minha dedicação à programação, aproveito meu tempo livre para desf
 
 Meu objetivo principal é apresentar meus projetos e habilidades a recrutadores, clientes e colegas desenvolvedores. Tenho orgulho de compartilhar alguns dos meus repositórios públicos no GitHub, onde você pode conferir exemplos concretos do meu trabalho. Ficarei muito satisfeito em receber sua mensagem pelo WhatsApp, e-mail ou através do LinkedIn, utilizando os links fornecidos abaixo. Sinta-se à vontade para entrar em contato comigo para qualquer oportunidade ou para discutir sobre o mundo da programação e tecnologia
 <p align="center"> 
-  <a href="link-do-seu-portfolio"> 
+  <a href="www.samuelbarbosa.dev.br"> 
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-Explore%20meu%20trabalho-green?style=for-the-badge"> 
   </a> 
   <a href="https://api.whatsapp.com/send?phone=5538988190239"> 
